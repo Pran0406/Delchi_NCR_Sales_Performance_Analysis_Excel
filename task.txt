@@ -1,0 +1,6 @@
+All the new intern this is your first task
+Task 1
+
+Topic: Sales Performance Tracker
+Project:Create a sales dashboard in Excel using Pivot Tables, Charts, and basic formulas from raw sales data.
+📦 Deliverable: Excel file with charts and a summary sheet
